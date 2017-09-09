@@ -1,0 +1,371 @@
+.ab3293.rv-container article.box[data-rv-type="rvP"] section.rv-price-info .price-info-additional{font-weight:normal}
+.ab3293.rv-container article.box[data-rv-type="rvP"] span.trip-info-dates{color:#616161}
+.ab3293.rv-container article.box[data-rv-type="rvP"] .rv-savings-info{position:absolute;top:75px;right:45px}
+.ab3293.rv-container article.box[data-rv-type="rsP"] h5.price-info-price.see-price{font-weight:bold}
+.ab3293.rv-container article.box[data-rv-type="rsP"] span.price-info-additional{font-weight:normal !important;font-size:13px !important}
+.ab3293.rv-container article.box[data-rv-type="rsP"] section.rv-trip-info.isRS{width:55%}
+[lang="fr"] .ab3293.rv-container article.box[data-rv-type="rsP"] section.rv-trip-info.isRS{width:51%}
+.ab3293.rv-container article.box[data-rv-type="rvH"] span.trip-info-additional{position:relative;top:5px;white-space:nowrap}
+[lang="fr"] .ab3293.rv-container article.box[data-rv-type="rvH"] span.trip-info-additional{white-space:normal;top:1px}
+.ab3293.rv-container article.box[data-rv-type="rvH"] section.rv-trip-info.isRV{width:42%}
+.ab3293.rv-container article.box[data-rv-type="rvH"] section.rv-price-info .price-info-price{position:absolute;right:45px}
+.ab3293.rv-container article.box[data-rv-type="rvH"] section.rv-price-info .price-info-additional{position:absolute;right:47px;top:35px;font-weight:normal}
+.ab3293.rv-container article.box[data-rv-type="rvH"] section.rv-price-info .price-info-additional.number-of-rooms-left{color:#d60000;top:53px;right:47px}
+.ab3293.rv-container article.box[data-rv-type="rvH"] section.rv-price-info .price-info-additional.free-cancellation{color:#2f7000;top:53px;right:47px}
+.rv-container header{padding-bottom:.70588235em}
+.rv-container header h3{color:#536d83;margin-top:0;margin-bottom:0}
+.rv-container span.rv-legal-msg{font-size:.8235294117647058em}
+.rv-container .rv-remove{float:right;background-color:#e5e5e5;position:relative;margin:0;-webkit-border-radius:0;-moz-border-radius:0;-o-border-radius:0;border-radius:0;height:6.76470588em;width:2.11764706em}
+.rv-container .rv-remove .icon-close{position:absolute;top:0;left:0;color:#616161;font-size:.8823529411764706em;padding-top:.53333333em;padding-left:.53333333em}
+.rv-container .rv-remove:hover .icon-close,.rv-container .rv-remove:focus .icon-close{color:black}
+.rv-container .box{height:6.41176471em;margin-bottom:.35294118em;padding:0;float:left;width:50%;cursor:pointer;overflow:hidden;transition:background .25s ease-in-out;-moz-transition:background .25s ease-in-out;-webkit-transition:background .25s ease-in-out}
+.rv-container .box:hover{background-color:#edf7ff}
+.rv-container .box+.box{margin-top:0}
+.rv-container .box.even{float:right;position:relative;left:1.41176471em}
+.rv-container .box.placeholder{cursor:auto;border:1px dashed #c7c7c7;background:#f5f5f5}
+.rv-container .box a{text-decoration:none;display:block}
+.rv-container .box a:focus{background-color:#edf7ff}
+.rv-container .box section{float:left}
+.rv-container .box section h5{margin-top:0;margin-bottom:0;font-size:.7647058823529411em;line-height:1em;padding-bottom:.11764706em}
+.rv-container .box section span{display:block;font-size:13px;line-height:16px;margin-top:.23529412em}
+.rv-container .box section span+span{margin-top:.29411765em}
+.rv-container .box section.rv-visual.isRV{width:153px}
+.rv-container .box section.rv-visual.isRV figure{margin-bottom:0;padding-bottom:0;width:auto;height:115px}
+.rv-container .box section.rv-visual.isRV figure img{width:153px;height:115px}
+.rv-container .box section.rv-visual span.icon{color:#00355f;font-size:1.4705882352941178em;position:relative;padding-top:.56em;padding-left:.72em}
+.rv-container .box section.rv-trip-info{color:#999;padding-top:.82352941em;padding-left:1.05882353em}
+.rv-container .box section.rv-trip-info.isRV{width:40%}
+[lang="fr"] .rv-container .box section.rv-trip-info.isRV{width:37%}
+.rv-container .box section.rv-trip-info.isRV .trip-info-main{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.rv-container .box section.rv-trip-info.isRS{width:63%}
+[lang="fr"] .rv-container .box section.rv-trip-info.isRS{width:51%}
+.rv-container .box section.rv-trip-info .trip-info-main{color:#0065b8;line-height:15px}
+.rv-container .box section.rv-trip-info .trip-info-dates{color:#0065b8;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.rv-container .box section.rv-trip-info .trip-info-additional span{display:inline;left:-0.11764706em;padding-right:.05882353em}
+.rv-container .box section.rv-trip-info .trip-info-additional.free-cancellation{color:#2f7000;font-weight:bold;position:relative;top:1.17647059em}
+.rv-container .box section.rv-trip-info .star-rating{color:#616161;display:inline}
+.rv-container .box section.rv-trip-info .star-rating span.icon{margin-top:0}
+.rv-container .box section.rv-trip-info span.trip-info-city,.rv-container .box section.rv-trip-info span.trip-info-additional{color:#616161}
+.rv-container .box section.rv-price-info{float:right;text-align:right;margin:0 .58823529em;padding-top:.35294118em}
+.rv-container .box section.rv-price-info .number-of-rooms-left{color:#d60000}
+.rv-container .box section.rv-price-info .price-info-price{color:#1f1f1f}
+.rv-container .box section.rv-price-info .price-info-price.see-price{font-weight:normal;color:#0065b8;padding-top:.31578947em}
+.rv-container .box section.rv-price-info .price-info-price.has-price{font-size:19px;padding-bottom:0}
+.rv-container .box section.rv-price-info .price-info-additional{margin-top:0;color:#6b6b6b;font-size:12px;font-weight:bold}
+.rv-container .box section.rv-price-info .package-orig-price{text-decoration:line-through;color:#999}
+.rv-container .box section.rv-savings-info{position:relative;top:20px;right:2px}
+.rv-container .box section.rv-savings-info span.savingsAmount{font-size:14px;font-weight:500;display:inline-block;color:green}
+.rv-container .box[data-rv-type="rsF"] .box section.rv-price-info{position:absolute;right:2.11764706em}
+.ab_5425_1 .recommender-container .cols-row-header.section-header,.ab_5425_2 .recommender-container .cols-row-header.section-header{margin-bottom:0}
+.ab_5425_1 .recommender-container .cols-row-header.section-header .section-header-main,.ab_5425_2 .recommender-container .cols-row-header.section-header .section-header-main{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;width:80%}
+.ab_5425_1 .recommender-container .cols-row-header.section-header .disclaimer,.ab_5425_2 .recommender-container .cols-row-header.section-header .disclaimer{position:relative;width:25%;margin-top:-1.84615385em;padding:0;float:right;text-align:right;font-size:13px}
+@media only screen and (max-width:59.9375em){.ab_5425_1 .recommender-container .cols-row-header.section-header,.ab_5425_2 .recommender-container .cols-row-header.section-header{margin-bottom:.35294118em}
+.ab_5425_1 .recommender-container .cols-row-header.section-header .section-header-main,.ab_5425_2 .recommender-container .cols-row-header.section-header .section-header-main{width:100%}
+.ab_5425_1 .recommender-container .cols-row-header.section-header .disclaimer,.ab_5425_2 .recommender-container .cols-row-header.section-header .disclaimer{float:none;width:initial;text-align:left;margin-top:-0.58823529em}
+}
+.recommender-container .cols-row-header.section-header{position:relative;padding-bottom:0;margin-bottom:6px}
+.recommender-container .cols-row-header.section-header span{position:absolute;right:0;top:3em;font-size:.7647058823529411em}
+.recommender-container article.tile .box{min-height:86px}
+.recommender-container article.tile .box section{float:left}
+.recommender-container article.tile .box section h5{margin-top:0;margin-bottom:0}
+.recommender-container article.tile .box section span{display:block;font-size:13px;line-height:13px;margin-top:.23529412em}
+.recommender-container article.tile .box section.rec-hotel-info{width:65%}
+.recommender-container article.tile .box section.rec-hotel-info .tile-name{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;color:#0065b8;font-size:.7647058823529411em;line-height:1em}
+.recommender-container article.tile .box section.rec-hotel-info .star-rating{color:#1f1f1f}
+.recommender-container article.tile .box section.rec-hotel-info .star-rating .icon{padding:0}
+.recommender-container article.tile .box section.rec-hotel-info .rec-hotel-dates{display:block;color:#616161}
+.recommender-container article.tile .box section.rec-price-info{color:#1f1f1f;font-weight:bold;width:35%;text-align:right;position:relative;top:-5px}
+.recommender-container article.tile .box section.rec-price-info.price-emphasized{color:#b80000}
+.recommender-container article.tile .box section.rec-price-info h5{font-size:20px;float:right;top:-7px;position:relative}
+.recommender-container article.tile .box section.rec-price-info.price-emphasized h5{color:#b80000}
+.recommender-container article.tile .box section.rec-price-info .currencySymbolPostfix{float:right;top:-3px;position:relative}
+.lt-ie9 .rv-container .box button.rv-remove .icon-close{margin-top:-3.66666667em;padding-left:.58823529em}
+.lt-ie9 .rv-container .box button.rv-remove .alt{text-align:center;color:#616161;font-weight:bold;display:block;margin-top:-7.2em}
+.lt-ie9 .rv-container .box button.rv-remove .alt:hover{background:#fff}
+.lt-ie9 .rv-container .box button.rv-remove:hover .alt,.lt-ie9 .rv-container .box button.rv-remove:focus .alt{color:#000}
+.lt-ie9 .rv-container .box button.rv-remove:hover .icon,.lt-ie9 .rv-container .box button.rv-remove:focus .icon{background:transparent !important}
+@media only screen and (max-width:25em){.ab3293.rv-container article.box.col button.rv-remove{display:none;width:25px}
+.ab3293.rv-container article.box.col button.rv-remove span.icon-close{padding-left:5px}
+.ab3293.rv-container article.box.col[data-rv-type="rsF"] section.rv-trip-info.isRS{width:60%}
+.ab3293.rv-container article.box.col[data-rv-type="rsF"] section.rv-price-info{margin-right:5px}
+.ab3293.rv-container article.box.col[data-rv-type="rsF"] section.rv-price-info h5.price-info-price{position:absolute;right:10px;bottom:15px}
+.ab3293.rv-container article.box.col[data-rv-type="rsF"] section.rv-price-info h5.price-info-price.has-price{font-size:16px}
+.ab3293.rv-container article.box.col[data-rv-type="rsF"] section.rv-price-info span.price-info-additional{display:none}
+.ab3293.rv-container article.box.col[data-rv-type="rsF"] section.rv-price-info span.price-info-additional.number-of-rooms-left{display:block}
+.ab3293.rv-container article.box.col[data-rv-type="rsF"] section.rv-visual span.icon-flightsalt{padding-left:10px}
+.ab3293.rv-container article.box.col[data-rv-type="rsF"] section.rv-trip-info{padding-left:10px}
+.ab3293.rv-container article.box.col[data-rv-type="rsP"] section.rv-visual span.icon-packagesalt{padding-left:8px}
+.ab3293.rv-container article.box.col[data-rv-type="rsP"] section.rv-trip-info{padding-left:10px}
+.ab3293.rv-container article.box.col[data-rv-type="rsP"] section.rv-trip-info.isRS{width:50%}
+.ab3293.rv-container article.box.col[data-rv-type="rsP"] section.rv-trip-info span.trip-info-additional span{position:absolute;left:46px}
+.ab3293.rv-container article.box.col[data-rv-type="rsP"] section.rv-price-info{margin-right:7px}
+.ab3293.rv-container article.box.col[data-rv-type="rvP"] section.rv-trip-info.isRV{width:60%}
+.ab3293.rv-container article.box.col[data-rv-type="rvP"] section.rv-price-info h5.price-info-price{position:absolute;right:10px;bottom:7px}
+.ab3293.rv-container article.box.col[data-rv-type="rvP"] section.rv-price-info h5.price-info-price.has-price{font-size:16px}
+.ab3293.rv-container article.box.col[data-rv-type="rvP"] section.rv-price-info .price-info-additional{display:none}
+.ab3293.rv-container article.box.col[data-rv-type="rvP"] section.rv-price-info .price-info-additional.number-of-rooms-left{display:block}
+.ab3293.rv-container article.box.col[data-rv-type="rvH"] section.rv-price-info{text-align:left}
+.ab3293.rv-container article.box.col[data-rv-type="rvH"] section.rv-price-info h5.price-info-price{right:10px;bottom:7px}
+.ab3293.rv-container article.box.col[data-rv-type="rvH"] section.rv-price-info h5.price-info-price.has-price{font-size:16px}
+.ab3293.rv-container article.box.col[data-rv-type="rvH"] section.rv-price-info .price-info-additional{display:none}
+.ab3293.rv-container article.box.col[data-rv-type="rvH"] section.rv-price-info .price-info-additional.number-of-rooms-left{display:block}
+.ab3293.rv-container article.box.col[data-rv-type="rvH"] section.rv-price-info .price-info-additional.free-cancellation{top:60px}
+.ab3293.rv-container article.box.col[data-rv-type="rvH"] section.rv-trip-info.isRV{width:67%}
+.ab3293.rv-container article.box.col[data-rv-type="rvH"] section.rv-trip-info.isRV span.trip-info-additional.trend-msg{display:none}
+}
+@media only screen and (max-width:31.25em){.recommender-container .cols-row-header.section-header{padding-bottom:.94117647em}
+.recommender-container .cols-row-header.section-header span#rec-disclaimer{top:auto;right:auto}
+.ab_5425_1 .recommender-container .cols-row-header.section-header,.ab_5425_2 .recommender-container .cols-row-header.section-header{padding-bottom:0}
+.ab3293.rv-container article.box[data-rv-type="rvH"] section.rv-trip-info.isRV{width:50%}
+.ab3293.rv-container article.box[data-rv-type="rsP"] section.rv-trip-info.isRS .trip-info-additional{white-space:nowrap}
+.ab3293.rv-container article.box.col section.rv-visual.isRV{width:78px}
+.ab3293.rv-container article.box.col section.rv-visual.isRV figure{width:auto;height:78px}
+.ab3293.rv-container article.box.col section.rv-visual.isRV figure img{width:78px;height:78px}
+}
+section.rv-trip-info span.sm-tablet{display:none}
+@media only screen and (max-width:37.5em){.recommender-container .cols-row-header.section-header h4{display:none}
+.recommender-container .cols-row-header.section-header span{top:2.35294118em}
+.ab3293.rv-container header span.rv-legal-msg{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.ab3293.rv-container article.box{height:81px}
+.ab3293.rv-container article.box section.rv-trip-info{padding-top:3px}
+.ab3293.rv-container article.box section.rv-trip-info.isRS{width:50%}
+.ab3293.rv-container article.box section.rv-trip-info span.sm-tablet-greater{display:none}
+.ab3293.rv-container article.box section.rv-trip-info span.sm-tablet{display:block}
+.ab3293.rv-container article.box section.rv-price-info{padding-top:6px}
+.ab3293.rv-container article.box button.rv-remove .icon-close{padding-top:5px}
+.ab3293.rv-container article.box[data-rv-type="rsP"] section.rv-trip-info.isRS{width:40%}
+.ab3293.rv-container article.box[data-rv-type="rvH"] section.rv-price-info .price-info-additional{top:25px}
+.ab3293.rv-container article.box[data-rv-type="rvH"] section.rv-price-info .price-info-additional.free-cancellation{top:44px}
+.ab3293.rv-container article.box[data-rv-type="rvH"] span.trip-info-additional{top:0}
+.ab3293.rv-container article.box section.rv-visual.isRV{width:108px}
+.ab3293.rv-container article.box section.rv-visual.isRV figure{width:auto;height:81px}
+.ab3293.rv-container article.box section.rv-visual.isRV figure img{width:108px;height:81px}
+}
+@media only screen and (max-width:59.9375em){article.rv-container header h3{float:none}
+article.rv-container header span.rv-legal-msg{text-align:left}
+article.rv-container .cols-row{padding-right:0}
+article.rv-container .cols-row .box{width:100%}
+article.rv-container .cols-row .box.placeholder{display:none}
+article.rv-container .cols-row .box.even{position:relative;left:0}
+article.rv-container .cols-row .box section.rv-trip-info{width:45%}
+article.rv-container .cols-row .box section.rv-trip-info.isRS{width:60%}
+}
+#rv-container .flex-listing .col{width:50%}
+#rv-container .flex-listing .col .flex-figure .image,#rv-container .flex-listing .col .flex-figure .image img{width:100%;height:100%;padding-bottom:0}
+#rv-container .flex-listing .viewHistory .flex-card .flex-figure{max-width:7.82352941em}
+#rv-container .flex-listing .viewHistory .flex-card .flex-figure .image{width:7.82352941em;height:7.05882353em}
+#rv-container .flex-listing .searchHistory .flex-card .flex-figure{width:2.52941176em}
+#rv-container .flex-listing .searchHistory .flex-card .flex-figure span.icon{color:#00355f;font-size:1.4705882352941178em;position:relative;padding-top:.56em;padding-left:.72em}
+#rv-container .flex-listing .col[data-rv-type="rsP"] .flex-card .flex-area-secondary .price-info-price.see-price{font-weight:bold}
+#rv-container .flex-listing .flex-card{overflow:hidden;height:7.11764706em}
+#rv-container .flex-listing .flex-card .flex-content span{display:block;font-size:13px;line-height:16px;margin-top:.23529412em}
+#rv-container .flex-listing .flex-card .flex-content span+span{margin-top:.29411765em}
+#rv-container .flex-listing .flex-card .flex-title{color:#0065b8;margin-top:0;margin-bottom:0;font-size:.7647058823529411em;line-height:1em;padding-bottom:.11764706em;font-weight:bold;white-space:nowrap}
+#rv-container .flex-listing .flex-card .flex-title span.sm-tablet{display:none}
+#rv-container .flex-listing .flex-card .trip-info-dates{color:#0065b8;white-space:normal;text-overflow:ellipsis;overflow:hidden}
+#rv-container .flex-listing .flex-card .star-rating span.icon{margin-top:0}
+#rv-container .flex-listing .flex-card .trip-info-additional{position:relative;top:.38461538em;white-space:nowrap;text-overflow:ellipsis;overflow:hidden}
+[lang="fr"] #rv-container .flex-listing .flex-card .trip-info-additional{white-space:normal;top:.07692308em}
+#rv-container .flex-listing .flex-card .trip-info-additional span{display:inline;left:-0.11764706em;padding-right:.05882353em;color:#616161}
+#rv-container .flex-listing .flex-card .trip-info-additional.free-cancellation{color:#2f7000;font-weight:bold}
+#rv-container .flex-listing .flex-card .trip-info-additional.trend-msg{white-space:normal;top:0}
+#rv-container .flex-listing .flex-card .icon-trend{display:inline-block}
+#rv-container .flex-listing .flex-card .flex-area-secondary{padding:.35294118em .58823529em;text-align:right;position:relative}
+#rv-container .flex-listing .flex-card .flex-area-secondary .see-price{font-weight:normal;color:#0065b8;white-space:nowrap;padding-top:.31578947em}
+#rv-container .flex-listing .flex-card .flex-area-secondary .has-price{font-size:1.1176470588235294em;line-height:1em;padding-top:0;margin-top:0;white-space:nowrap;font-weight:bold}
+#rv-container .flex-listing .flex-card .flex-area-secondary .price-info-additional{color:#6b6b6b;font-size:.7058823529411765em;padding-top:0;margin-top:0;font-weight:normal;white-space:nowrap}
+#rv-container .flex-listing .flex-card .flex-area-secondary .price-info-additional.number-of-rooms-left{color:#d60000;padding-top:.41666667em}
+#rv-container .flex-listing .flex-card .flex-area-secondary .price-info-additional.free-cancellation{color:#2f7000;position:absolute;bottom:1.66666667em;right:.83333333em;padding-top:0;margin-top:0}
+#rv-container .flex-listing .flex-card .flex-area-secondary .rv-savings-info{position:absolute;top:4.41176471em;right:.58823529em;white-space:nowrap;color:#0065b8}
+#rv-container .flex-listing .flex-card .flex-area-secondary .rv-savings-info span.savingsAmount{font-weight:500;display:inline-block;color:green}
+@media only screen and (max-width:62.9375em) and (min-width:45.375em){#rv-container .flex-listing .viewHistory .flex-card .flex-figure{max-width:11.35294118em}
+#rv-container .flex-listing .viewHistory .flex-card .flex-figure .image{width:11.35294118em;height:7.05882353em}
+#rv-container .flex-listing .col{width:50%}
+#rv-container .flex-listing .col.searchHistory .flex-card{height:5em}
+#rv-container .flex-listing .col .flex-card .trip-info-additional.trend-msg{position:absolute;bottom:1.53846154em;top:auto;white-space:nowrap}
+#rv-container .flex-listing .col .flex-card .flex-content .flex-area-secondary{width:100%;position:absolute;left:.58823529em;bottom:0}
+#rv-container .flex-listing .col .flex-card .flex-content .flex-area-secondary .rv-price-info{padding-right:2.35294118em}
+#rv-container .flex-listing .col .flex-card .flex-content .flex-area-secondary .rv-price-info .flex-price{float:right}
+#rv-container .flex-listing .col .flex-card .flex-content .flex-area-secondary .rv-price-info .free-cancellation,#rv-container .flex-listing .col .flex-card .flex-content .flex-area-secondary .rv-price-info .number-of-rooms-left{float:right;position:static;padding:.25em .83333333em}
+#rv-container .flex-listing .col .flex-card .flex-content .flex-area-secondary .rv-savings-info{top:0;left:0;right:auto;text-align:left}
+#rv-container .flex-listing .col .flex-card .flex-content .flex-area-secondary .price-info-additional.free-cancellation{bottom:.83333333em}
+#rv-container .flex-listing .col .flex-card .flex-content .flex-area-secondary span.price-info-additional{display:none}
+#rv-container .flex-listing .col .flex-card .flex-content .flex-area-secondary span.price-info-additional.number-of-rooms-left{display:block}
+.flex-empty{display:none}
+}
+@media only screen and (max-width:45.3125em) and (min-width:41.5em){#rv-container .flex-listing .viewHistory .flex-card .flex-figure{max-width:4.11764706em;height:4.11764706em}
+#rv-container .flex-listing .viewHistory .flex-card .flex-figure .image{width:4.11764706em;height:4.11764706em}
+#rv-container .flex-listing .col{width:100%}
+#rv-container .flex-listing .col.searchHistory .flex-card{height:7.11764706em}
+#rv-container .flex-listing .col .flex-card .flex-content{flex-wrap:wrap}
+#rv-container .flex-listing .col .flex-card .flex-content span.price-info-additional{display:none}
+#rv-container .flex-listing .col .flex-card .flex-content span.price-info-additional.number-of-rooms-left{display:block}
+#rv-container .flex-listing .col .flex-card .flex-content .flex-area-primary{width:100%}
+#rv-container .flex-listing .col .flex-card .flex-content .flex-area-secondary{width:100%;position:absolute;left:.58823529em;bottom:0}
+#rv-container .flex-listing .col .flex-card .flex-content .flex-area-secondary .rv-price-info{padding-right:2.35294118em}
+#rv-container .flex-listing .col .flex-card .flex-content .flex-area-secondary .rv-price-info .flex-price{float:right}
+#rv-container .flex-listing .col .flex-card .flex-content .flex-area-secondary .rv-price-info .free-cancellation,#rv-container .flex-listing .col .flex-card .flex-content .flex-area-secondary .rv-price-info .number-of-rooms-left{float:right;position:static;padding:.25em .83333333em}
+#rv-container .flex-listing .col .flex-card .flex-content .flex-area-secondary .rv-savings-info{top:0;left:0;right:auto;text-align:left}
+#rv-container .flex-listing .col .flex-card .flex-title span.sm-tablet-greater{display:none}
+#rv-container .flex-listing .col .flex-card .flex-title span.sm-tablet{display:block}
+#rv-container .flex-listing .col[data-rv-type="rvH"] .flex-card .flex-content span.trip-info-additional.trend-msg{display:none}
+}
+@media only screen and (max-width:41.4375em) and (min-width:30.75em){#rv-container .flex-listing .viewHistory .flex-card .flex-figure{max-width:7.82352941em}
+#rv-container .flex-listing .viewHistory .flex-card .flex-figure .image{width:7.82352941em}
+#rv-container .flex-listing .col{width:100%}
+#rv-container .flex-listing .flex-card .flex-content .flex-area-secondary{width:100%;position:absolute;left:.58823529em;bottom:0}
+#rv-container .flex-listing .flex-card .flex-content .flex-area-secondary .rv-price-info{padding-right:2.35294118em}
+#rv-container .flex-listing .flex-card .flex-content .flex-area-secondary .rv-price-info .flex-price{float:right}
+#rv-container .flex-listing .flex-card .flex-content .flex-area-secondary .rv-price-info .free-cancellation,#rv-container .flex-listing .flex-card .flex-content .flex-area-secondary .rv-price-info .number-of-rooms-left{float:right;position:static;padding:.25em .83333333em}
+#rv-container .flex-listing .flex-card .flex-content .flex-area-secondary .rv-savings-info{top:0;left:0;right:auto;text-align:left}
+#rv-container .flex-listing .flex-card .flex-content .flex-area-secondary span.price-info-additional{display:none}
+#rv-container .flex-listing .flex-card .flex-content .flex-area-secondary span.price-info-additional.number-of-rooms-left{display:block}
+.flex-empty{display:none}
+}
+@media only screen and (max-width:30.6875em){#rv-container .flex-listing .viewHistory .flex-card .flex-figure{max-width:4.11764706em;height:4.11764706em}
+#rv-container .flex-listing .viewHistory .flex-card .flex-figure .image{width:4.11764706em;height:4.11764706em}
+#rv-container .flex-listing .col{width:100%}
+#rv-container .flex-listing .col.searchHistory .flex-card{height:7.11764706em}
+#rv-container .flex-listing .col .flex-card{min-width:18.82352941em}
+#rv-container .flex-listing .col .flex-card .flex-content{flex-wrap:wrap}
+#rv-container .flex-listing .col .flex-card .flex-content span.price-info-additional,#rv-container .flex-listing .col .flex-card .flex-content span.trip-info-additional.trend-msg{display:none}
+#rv-container .flex-listing .col .flex-card .flex-content span.price-info-additional.number-of-rooms-left,#rv-container .flex-listing .col .flex-card .flex-content span.trip-info-additional.trend-msg.number-of-rooms-left{display:block}
+#rv-container .flex-listing .col .flex-card .flex-content .flex-area-primary{width:100%}
+#rv-container .flex-listing .col .flex-card .flex-content .flex-area-secondary{width:100%;position:absolute;left:.58823529em;bottom:0}
+#rv-container .flex-listing .col .flex-card .flex-content .flex-area-secondary .rv-price-info{padding-right:2.35294118em}
+#rv-container .flex-listing .col .flex-card .flex-content .flex-area-secondary .rv-price-info .flex-price{float:right}
+#rv-container .flex-listing .col .flex-card .flex-content .flex-area-secondary .rv-price-info .free-cancellation,#rv-container .flex-listing .col .flex-card .flex-content .flex-area-secondary .rv-price-info .number-of-rooms-left{float:right;position:static;padding:.25em .83333333em}
+#rv-container .flex-listing .col .flex-card .flex-content .flex-area-secondary .rv-savings-info{top:0;left:0;right:auto;text-align:left}
+#rv-container .flex-listing .col .flex-card .flex-title span.sm-tablet-greater{display:none}
+#rv-container .flex-listing .col .flex-card .flex-title span.sm-tablet{display:block}
+.flex-empty{display:none}
+}
+.flex-card.box.placeholder{width:100%}
+.local-favourites-module .content-slider,.local-favourites-module>.loader{margin-top:-0.70588235em}
+.local-favourites-module .alert{margin-top:-1.05882353em;width:100%;clear:both}
+.local-favourites-module .disclaimer{position:relative;width:25%;margin-top:-1.84615385em;padding:0;float:right;text-align:right;font-size:.7647058823529411em}
+.local-favourites-module>.loader{display:none}
+.local-favourites-module.loading .loader{display:block}
+.local-favourites-module .content-slider .tile-link .star-rating{color:#1f1f1f}
+.local-favourites-module .content-slider .tile .tile-link:hover .tile-content,.local-favourites-module .content-slider .tile .tile-link:focus .tile-content{background:#edf7ff;color:#1f1f1f}
+.local-favourites-module .content-slider .tile .tile-details{position:relative}
+.local-favourites-module .content-slider .tile .tile-details .tile-name{margin:0;font-size:.7647058823529411em;width:75%;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;color:#0065b8}
+.local-favourites-module .content-slider .tile .tile-details .tile-price{color:#1f1f1f;position:absolute;top:1.05882353em;right:1.05882353em}
+.local-favourites-module .content-slider .tile .tile-details .tile-price strong{color:#1f1f1f;font-weight:bold;display:inline-block}
+.local-favourites-module .content-slider .tile .tile-details .tile-price .currency{font-size:.6470588235294118em;line-height:2.1818181818181817em;display:inline-block;position:relative;top:-0.29411765em}
+@media only screen and (min-width:45.375em) and (max-width:59.9375em){body .local-favourites-module .section-header-sub{margin-top:.17647059em;white-space:nowrap}
+body .local-favourites-module .cols-row-header{padding-bottom:0}
+body .local-favourites-module .loader{bottom:-1.5em}
+body .local-favourites-module .disclaimer{float:none;text-align:left;margin-top:-0.58823529em}
+body .local-favourites-module .content-slider{margin-top:.94117647em}
+}
+@media only screen and (max-width:45.3125em){body .local-favourites-module .cols-row-header{padding-bottom:0}
+body .local-favourites-module .section-header-sub{margin-top:.17647059em;white-space:nowrap}
+body .local-favourites-module .content-slider{margin-top:.94117647em}
+body .local-favourites-module .loader{bottom:-1.5em}
+body .local-favourites-module .disclaimer{position:relative;float:left;text-align:left;margin-top:-0.58823529em;white-space:nowrap}
+}
+.discovery-tiles .title{list-style:none;margin:0;padding:0}
+.discovery-tiles .tile-name{font-size:.7647058823529411em;color:#0065b8}
+.discovery-tiles .product .hotel-name{color:#0065b8;font-weight:bold}
+.discovery-tiles .product{color:#1f1f1f}
+.discovery-tiles .discovery-module{margin-bottom:1.84615385em}
+.discovery-tiles .legal{text-align:right;display:block;float:right;margin:0;font-weight:normal;color:#616161}
+.tile-details{min-height:4.41176471em}
+.discovery-tiles .tile-details{min-height:5.88235294em}
+@media screen and (max-width:63.9375em){.discovery-module{padding-right:1.41176471em;padding-left:1.41176471em}
+}
+@media only screen and (max-width:45.3125em){.discovery-tiles .content-slider .tile-grid{width:2000%}
+.discovery-tiles .content-slider .tile-grid .tile{width:5%}
+}
+#launch-seo{margin:0 auto;padding:1.41176471em 1.41176471em 1.41176471em 1.41176471em;max-width:69.17647059em}
+#launch-seo.empty{display:none}
+#launch-seo .cols-row{max-width:100%;padding-right:0}
+#launch-seo .right{float:none}
+#launch-seo h3,#launch-seo h5{font-size:15px;margin:0;line-height:1.75}
+#launch-seo .seo-right,#launch-seo .seo-left,#launch-seo .seo-full,#launch-seo p,#launch-seo .st-text,#launch-seo a,#launch-seo div{font-size:13px}
+#launch-seo .seo-left{width:50%;display:inline-block;float:left}
+#launch-seo .seo-right{width:50%;display:inline-block;float:left}
+#launch-seo ul{margin-top:0;padding-left:0}
+#launch-seo li,#launch-seo .cl-link{line-height:1.45;padding-bottom:0;list-style:none;width:33.33%;display:inline-block;padding-right:.29411765em;margin-right:-4px}
+#launch-seo h3,#launch-seo h5,#launch-seo h4,#launch-seo section{clear:left}
+#launch-seo .disclaimer{font-size:11px}
+#launch-seo h1,#launch-seo h2,#launch-seo h3,#launch-seo h4,#launch-seo h5,#launch-seo h6{margin-top:.96em}
+#homepage-swxl-content{display:block}
+@media only screen and (max-width:50em){.seo-content .seo-left,.seo-content .seo-right{float:none;width:100%}
+.seo-content .seo-right ul{margin-left:0;padding-left:0}
+}
+#swxl-container .xp-t-xsmall{font-size:.8823529411764706em;max-width:114px}
+.ModContentWrapper ul span{display:block}
+.ie8 body .hero-banner-wrap#WizardHero .hero-banner{background-color:#1f1f1f}
+.ie8 body #WizardHero .tab-pane .radio-set input ~ span,.ie8 body #WizardHero .tab-pane .flight-type-select input ~ span{background:#616161}
+.ie8 body #WizardHero .tab-pane .radio-set input[checked] ~ span,.ie8 body #WizardHero .tab-pane .flight-type-select input[checked] ~ span{background-color:#0065b8}
+.ie8 body #WizardHero .tab-pane .radio-set span:hover,.ie8 body #WizardHero .tab-pane .flight-type-select span:hover{background-color:#0087f5}
+body{padding-bottom:0}
+body .site-navigation .user-history-tab{display:block}
+body .site-content-wrap,body .alert.feedback-msg{max-width:69.17647058823529em;margin:0 auto;height:auto;}
+body .alert.feedback-msg{padding-bottom:1.41176471em}
+body .site-content-wrap{padding-bottom:2.82352941em}
+body .hero-banner-wrap.theme-inverse-hero .hero-banner-box{background-color:transparent;box-shadow:none;padding:0}
+body .hero-banner-wrap .hero-banner .hero-banner-inner{padding:1.41176471em 0 0 0}
+body .hero-banner-wrap .hero-form{min-height:21.17647059em;padding-bottom:1.41176471em}
+body .hero-banner-wrap .hero-banner{padding:1.41176471em;padding-bottom:0;background-color:#f5f5f5;position:relative}
+.no-backgroundsize body .hero-banner-wrap .hero-banner{background-image:none;background-color:#f5f5f5}
+body .hero-banner-wrap .hero-banner.background-size-fix{background-color:#1f1f1f}
+body .hero-banner-wrap .hero-banner.background-size-fix.no-image{background-color:#6592b8}
+body .hero-banner-wrap .hero-banner .validation-alert{width:95%}
+body .hero-banner-wrap .hero-banner .validation-alert a:hover,body .hero-banner-wrap .hero-banner .validation-alert a:focus{color:#b80000}
+body .hero-banner-wrap .hero-banner .hero-banner-gradient{background:0}
+body .hero-banner-wrap .hero-banner .hero-banner-gradient .hero-banner-inner{padding:0;-webkit-transition:padding .50s cubic-bezier(0.230,1.000,0.320,1.000);-moz-transition:padding .50s cubic-bezier(0.230,1.000,0.320,1.000);-o-transition:padding .50s cubic-bezier(0.230,1.000,0.320,1.000);transition:padding .50s cubic-bezier(0.230,1.000,0.320,1.000)}
+body .hero-banner-wrap .hero-banner .hero-banner-gradient .hero-banner-inner .search-wrapper{padding:0}
+body .hero-banner-wrap.core-wizard-loaded .hero-banner{background-color:#1f1f1f}
+body .module-wrapper{padding-right:1.41176471em;padding-left:1.41176471em}
+body .module-wrapper .section-header{margin-bottom:.70588235em}
+body .site-content-wrap .air-attach-container{background:transparent}
+body .site-content-wrap .air-attach-container a{color:#536d83;font-weight:normal;text-align:center;padding-bottom:0}
+body .site-content-wrap .air-attach-container span{font-size:1.0588235294117647em;display:inline-block;float:none;font-weight:bold}
+body .air-attach-container{background:#0065b8}
+body .air-attach-container a{padding:.94117647em 1.41176471em .94117647em 1.41176471em;font-weight:bold;max-width:69.17647058823529em;margin:0 auto;display:block;color:white;text-decoration:none}
+body .air-attach-container a:hover{color:white}
+body .air-attach-container span{font-size:.9411764705882353em}
+body .air-attach-container .icon{position:relative;top:-0.11764706em}
+body .air-attach-container .air-attach-message,body .air-attach-container .offer-countdown{display:block}
+body .air-attach-container .air-attach-message{float:left}
+body .air-attach-container .offer-countdown{float:right;font-weight:normal;opacity:0;-webkit-transition:opacity .25s ease-in;-moz-transition:opacity .25s ease-in;-o-transition:opacity .25s ease-in;transition:opacity .25s ease-in}
+body .air-attach-container .offer-countdown.timer-ready{opacity:1}
+body .air-attach-hotel-tiles{margin-top:.94117647em}
+body .air-attach-hotel-tiles>a{width:5.88235294em;display:block;margin:0 auto;text-align:center;white-space:nowrap}
+body .air-attach-hotel-tiles .flex-content .flex-title,body .air-attach-hotel-tiles .flex-content .star-rating,body .air-attach-hotel-tiles .flex-content .hotel-date-range{font-size:.7647058823529411em}
+body .air-attach-hotel-tiles .flex-content .flex-title{margin-top:.46153846em;font-weight:bold;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+body .air-attach-hotel-tiles .flex-content .flex-price s{font-size:.8823529411764706em;color:#999;font-weight:normal}
+body .air-attach-hotel-tiles .flex-content .hotel-date-range{margin-top:.23076923em;color:#999}
+body .slim-app-endorsement{width:44.11764706em;margin:0 auto;margin-top:1.41176471em;padding:.70588235em .70588235em .70588235em .70588235em}
+body .slim-app-endorsement div{width:49%}
+body .slim-app-endorsement div.text-val-prop{float:left}
+body .slim-app-endorsement div.app-download-buttons{float:right;text-align:right}
+body .slim-app-endorsement .text-val-prop p{font-weight:bold;font-size:.8823529411764706em;color:#1f1f1f;line-height:1}
+body .slim-app-endorsement .app-download-buttons a{display:inline-block;font-weight:normal}
+body .slim-app-endorsement .iphone-btn{margin-right:.35294118em}
+.svg body .hero-banner.background.no-image,.no-svg .hero-banner.background.no-image{background-image:none}
+.svg body .hero-banner.background.no-image:before,.no-svg .hero-banner.background.no-image:before{display:none}
+#home-page .us-pos .secondary-branding{margin-bottom:0}
+@media only screen and (min-width:60em){body .cols-row.search{-webkit-border-radius:.35294118em;-moz-border-radius:.35294118em;-o-border-radius:.35294118em;border-radius:.35294118em;box-shadow:0 0 15px 0 rgba(0,0,0,0.5);-webkit-box-shadow:0 0 15px 0 rgba(0,0,0,0.5)}
+}
+@media only screen and (min-width:30.75em) and (max-width:59.9375em){body .hero-banner{padding:0}
+}
+@media only screen and (max-width:59.9375em){body .slim-app-endorsement{width:100%}
+}
+@media only screen and (max-width:45.3125em){body .slim-app-endorsement div{float:none;width:100%}
+body .slim-app-endorsement div.app-download-buttons,body .slim-app-endorsement div.text-val-prop{text-align:center}
+body .slim-app-endorsement div.text-val-prop{margin-bottom:.35294118em}
+}
+@media only screen and (max-width:52.8125em){body .hero-banner-wrap .cols-row.search .forms{width:auto}
+body .hotel-value-prop-tablet{display:none}
+}
+@media only screen and (max-width:59.9375em){body section.hero-banner-wrap .hero-banner{padding:0 !important}
+body section.hero-banner-wrap .hero-banner{padding-top:0 !important}
+.cols-row.search{border-radius:0}
+body .hero-banner .alert.alert-warn{margin-bottom:0}
+}
+@media only screen and (max-width:45.3125em){.hero-banner-wrap .cols-row.search .forms{width:auto}
+}

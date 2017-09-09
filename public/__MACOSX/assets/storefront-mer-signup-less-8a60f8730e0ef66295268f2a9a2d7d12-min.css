@@ -1,0 +1,15 @@
+#mer-signup-wrapper{display:inline-block;padding:0;background-color:#ffcb00;color:black}
+#mer-signup-toggle-btn{width:100%;cursor:default;padding-top:.88235294em;padding-bottom:.88235294em}
+#mer-signup-toggle-btn .toggle-wrap{position:relative;width:100%;float:none}
+#mer-signup-toggle-btn .toggle-wrap .icon{position:absolute;right:.88235294em;bottom:0}
+#mer-signup-toggle-btn .title-wrap{max-width:95%;display:inline-block}
+#mer-signup-toggle .toggle-inner{padding-bottom:.88235294em;width:100%}
+#mer-signup-toggle .email-form-container{width:100%;max-width:35.29411765em;position:relative;padding-right:7.64705882em}
+#mer-signup-toggle .email-form-container #mer-email-label{margin-top:0}
+#mer-signup-toggle .mer-email-form{width:100%}
+#mer-signup-toggle #mer-email-errors{width:auto;margin-top:0;padding-left:1.17647059em}
+#mer-signup-toggle #mer-signup-button{position:absolute;right:0;top:0;width:7.64705882em;margin:0}
+#mer-signup-toggle #mer-disclaimer{clear:both}
+#mer-signup-toggle #mer-signup-success{margin-bottom:.29411765em}
+@media only screen and (min-width:60em){#mer-signup-wrapper{margin-top:.88235294em}
+}

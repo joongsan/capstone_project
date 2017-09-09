@@ -1,0 +1,17 @@
+#ebr-join-rewards-banner{display:block;width:100%;min-height:2.11764706em;margin:0;padding-top:.58823529em;text-align:center;color:white;z-index:100;top:.58823529em;background-color:#00355f;height:3em;margin-top:.5em}
+#ebr-join-rewards-banner img{margin:.11764706em .70588235em .11764706em .47058824em;top:-0.05882353em;height:1.05882353em}
+#ebr-join-rewards-banner .cta{font-weight:bold}
+#ebr-join-rewards-banner .cta a{color:white;text-decoration:underline}
+#ebr-join-rewards-banner .cta a.blue{color:white;text-decoration:underline}
+#ebr-join-rewards-banner #call-to-action-badge{font-weight:normal;vertical-align:top}
+#ebr-join-rewards-container{position:relative}
+#ebr-join-rewards-close-btn{position:absolute;top:-0.58823529em;right:1.17647059em}
+.ebr-site-header-with-rewards-banner{border-collapse:collapse}
+@media screen and (max-width:890px){#ebr-join-rewards-banner{display:none}
+}
+#ebr-join-rewards-a{color:white;text-decoration:underline}
+#ebr-expediaPlusBusinessLogo{position:absolute;margin:-0.6em 1em;height:3em;width:12em;background:url("/static/default/default/images/expediaBusiness/business_horizontal.png") no-repeat;z-index:5}
+@media(max-width:745px){#ebr-expediaPlusBusinessLogo{background:url("/static/default/default/images/expediaBusiness/business_stacked.png") no-repeat !important;height:3em;width:4.5em}
+}
+#ebr-join-rewards-container .icon-close:after{color:white;margin-top:1em}
+#ebr-join-rewards-banner-message{margin-top:.3em}

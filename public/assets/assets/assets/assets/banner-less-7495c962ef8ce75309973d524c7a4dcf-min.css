@@ -1,0 +1,11 @@
+#join-rewards-banner{display:block;width:100%;min-height:2.11764706em;margin:0;padding-top:.58823529em;text-align:center;color:black;z-index:100;top:.58823529em;background-color:#ffcb00}
+#join-rewards-banner img{margin:.11764706em .70588235em .11764706em .47058824em;top:-0.05882353em;height:1.05882353em}
+#join-rewards-banner .cta{font-weight:bold}
+#join-rewards-banner .cta a{color:black;text-decoration:underline}
+#join-rewards-banner .cta a.blue{color:#0065b8;text-decoration:none}
+#join-rewards-banner #call-to-action-badge{font-weight:normal;vertical-align:top}
+#join-rewards-container{position:relative}
+#join-rewards-close-btn{position:absolute;top:-0.58823529em;right:1.17647059em}
+.site-header-with-rewards-banner{border-collapse:collapse}
+@media screen and (max-width:890px){#join-rewards-banner{display:none}
+}

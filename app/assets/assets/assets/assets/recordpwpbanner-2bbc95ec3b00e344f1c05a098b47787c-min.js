@@ -1,0 +1,2 @@
+(function(){window.define("loyalty.record.pwpbanner",["jquery"],function(a,f){var b=a("#eligibleForPaywithPoints-container #plain-coupon-message"),c=a("#eligibleForPaywithPoints-hidden-element"),d={},e=function(a){a.evaluationResult.hasError||1!==a.bucketValue||(b.addClass("hidden"),c.removeClass("hidden"))};d.recordIfApplicable=function(){0<b.length&&0<c.length&&loyalty.experimentrecorder.evaluateAndRecord(8873,["rewardsUserRequired"],e)};return d})})();
+//# sourceMappingURL=recordpwpbanner.js.map

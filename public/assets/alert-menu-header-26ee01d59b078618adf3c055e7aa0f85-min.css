@@ -1,0 +1,85 @@
+#user-alerts-menu .menu-bar-inner>li{margin-right:.5em !important}
+#user-alerts-menu .menu.sticky{margin-top:1.2em;border:3px solid #00355f;border-radius:5px;background:#fff}
+#user-alerts-menu .menu.sticky{right:.5em}
+#user-alerts-menu .menu-main{padding:0}
+.tv-header.site-header-primary .alerts-display-wrapper{top:-12px}
+.alerts-display-wrapper{display:none;float:left}
+#user-alerts-menu{position:relative;float:left;list-style-type:none;padding-bottom:0}
+#user-alerts-menu.visible{display:inline-block}
+#user-alerts-menu .trigger-link{position:absolute;top:0;right:0;padding-top:0;font-size:20px}
+.tv-header #user-alerts-menu .trigger-link{color:#fff}
+#user-alerts-menu .trigger-link .ie8-menu-arrow{margin-top:-0.45em}
+#user-alerts-menu .open .trigger-link{color:#0065b8 !important;background:0}
+#user-alerts-menu.legacy .open .trigger-link{height:30px}
+#user-alerts-menu .badge{position:absolute;top:0;right:.2em;min-width:initial;padding:0 .35em;background-color:#d60000;color:#fff;font-size:11px;font-weight:bold;line-height:15px;border-radius:3px;border:0;box-shadow:-2px 2px 0 #fff;z-index:99;cursor:pointer}
+.bell-trigger-link{padding:.46153846em .61538462em .46153846em .61538462em}
+.ie11#user-alerts-menu .badge{right:.25em;min-width:1.3em}
+.ie9#user-alerts-menu .badge{right:.1em;min-width:1em}
+#user-alerts-menu.legacy{display:none !important}
+#user-alerts-menu.legacy .badge{min-width:inherit;font-size:9px;font-weight:normal;right:1em;padding:0 .375em}
+#user-alerts-menu.legacy .arrow,#user-alerts-menu.legacy .ie8-menu-arrow{display:none;position:absolute;right:10px;top:-10px;width:1em;height:1em;margin-left:-0.52941176em;background:#fff;border:3px solid #00355f;border-right:0 solid transparent;border-bottom:0 solid transparent;-ms-transform:rotate(45deg);-moz-transform:rotate(45deg);-webkit-transform:rotate(45deg);-o-transform:rotate(45deg);transform:rotate(45deg);z-index:1001}
+#user-alerts-menu.legacy .open .arrow{display:block}
+.ie9 #user-alerts-menu .icon-notification,.ie8 #user-alerts-menu .icon-notification,#user-alerts-menu.legacy .icon-notification{position:relative;top:3px;left:6px;display:inline-block;width:27px;height:20px;text-align:center;background-image:url('/static/default/default/images/scratchpad/notifications-bell-fallback_2x.png');speak:none;background-size:contain;background-position:0 0;background-repeat:no-repeat}
+.ie8 #user-alerts-menu .icon-notification{background-image:none;top:-12px !important;left:-6px !important;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/static/default/default/images/scratchpad/notifications-bell-fallback_2x.png',sizingMethod='scale');-ms-filter:"progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/static/default/default/images/scratchpad/notifications-bell-fallback_2x.png',sizingMethod='scale')"}
+.ie9 #user-alerts-menu .icon-notification{background-image:none}
+.scrollable .greeting-message{margin-top:0}
+.alerts-container{width:20em;font-size:1.4em;border-radius:.23076923076923078em}
+.legacy .alerts-container{width:21em}
+.alerts-container .scrollable{min-height:2.5em;max-height:300px;overflow-y:auto}
+.alerts-container .alert-item{padding:.5em !important;background:#fff !important;transition:all .3s ease-in-out;border-bottom:1px solid #e5e5e5}
+.legacy .alerts-container .alert-item{padding:.75em !important;position:relative}
+.alert-item .alert-icon,.alert-item .alert-body,.alert-item .close-button{display:inline-block;vertical-align:top}
+.alert-item .alert-icon{display:inline-block;width:36px;height:36px;margin-right:12px;font-size:36px;line-height:1em;color:#00355f}
+.alert-icon img{width:36px;height:36px;vertical-align:top}
+.alert-icon.mip-lx img{height:30px}
+.alert-icon.updown{background-image:url('/static/default/default/images/scratchpad/alerts-up-down.png');background-size:contain}
+.alert-item .alert-body{width:22em;font-size:13px;color:#1f1f1f}
+.legacy .alert-item .alert-body{width:20em}
+.alert-item .alert-body.centered{width:100%}
+.alert-item .alert-body.centered .alert-message{text-align:center}
+.alert-item .alert-message>a{display:inline !important;background:none !important;border:none !important;padding:0 !important;color:#0065b8 !important;white-space:nowrap !important}
+.alert-item .alert-message>a:hover{background:none !important;color:#0065b8 !important;text-decoration:underline}
+.alert-item .close-button{position:absolute;font-size:15px;top:.5em;right:.5em}
+.alert-item .close-button button{position:absolute;top:0;right:0;margin:0;background:0}
+.ie9 .alert-item .close-button button,.ie8 .alert-item .close-button button,.legacy .alert-item .close-button button{top:7px;right:5px;margin:0;padding:.6em;font-size:16px;color:#1f1f1f;background-image:url('/static/default/default/images/scratchpad/notifications_close-x.png');background-position:0 1px;background-size:100%;background-repeat:no-repeat;overflow:hidden;max-height:15px}
+.legacy .alert-item .close-button:hover button{background-position:0 -16px}
+.alerts-container .alert-item.default-alert-item{display:none}
+.alerts-container .alert-item:first-child{display:block}
+.isWotif #user-alerts-menu .open .menu{border:3px solid #599027}
+.isWotif #user-alerts-menu.legacy .open .menu .arrow{border:3px solid #599027;border-right:0 solid transparent;border-bottom:0 solid transparent}
+.isWotif #user-alerts-menu .open .menu a.bound{color:#1972b2 !important}
+.isWotif #user-alerts-menu .open .menu #spSignIn52-delete{-webkit-box-shadow:none;box-shadow:none;border-width:0}
+.isLastMinute #user-alerts-menu .open .trigger-link{color:#0079a1 !important;background:0}
+.isLastMinute #user-alerts-menu .open .menu{border:3px solid #4f4f4f}
+.isLastMinute #user-alerts-menu.legacy .open .menu .arrow{border:3px solid #4f4f4f;border-right:0 solid transparent;border-bottom:0 solid transparent}
+.isLastMinute #user-alerts-menu .open .menu a.bound{color:#0079a1 !important}
+.isLastMinute #user-alerts-menu .open .menu #spSignIn52-delete{-webkit-box-shadow:none;box-shadow:none;border-width:0}
+.isOrbitz #user-alerts-menu .badge{box-shadow:-2px 2px 0 #00253c}
+.isOrbitz #user-alerts-menu .trigger-link{color:#00b1ff !important}
+.isOrbitz #user-alerts-menu .open .menu{border:3px solid #00253c}
+.isOrbitz #user-alerts-menu.legacy .open .menu .arrow{border:3px solid #00253c;border-right:0 solid transparent;border-bottom:0 solid transparent}
+.isMrJet #user-alerts-menu .badge{box-shadow:-2px 2px 0 #24324f}
+.isMrJet #user-alerts-menu .trigger-link{color:#fff !important}
+.isMrJet #user-alerts-menu .open .menu{border:3px solid #24324f}
+.isMrJet #user-alerts-menu.legacy .open .menu .arrow{border:3px solid #24324f;border-right:0 solid transparent;border-bottom:0 solid transparent}
+.isCheapTickets #user-alerts-menu .open .menu{border:3px solid #454545}
+.isCheapTickets #user-alerts-menu.legacy .open .menu .arrow{border:3px solid #454545;border-right:0 solid transparent;border-bottom:0 solid transparent}
+.isEbookers .badge{box-shadow:-2px 2px 0 #2fb4ed !important}
+.isEbookers:hover .badge{box-shadow:-2px 2px 0 white !important}
+.isEbookers.open:hover .badge{box-shadow:-2px 2px 0 #2fb4ed !important}
+.isEbookers .bell-trigger-link:hover{color:white}
+.isEbookers .bell-trigger-link:hover .badge{box-shadow:-2px 2px 0 #2fb4ed !important}
+.tv-header .site-navigation #user-alerts-menu.legacy .icon-notification,.ie9 .tv-header .site-navigation#user-alerts-menu .icon-notification,.ie8 .tv-header .site-navigation#user-alerts-menu .icon-notification{position:relative;top:-10px;left:12px;display:inline-block;width:27px;height:20px;text-align:center;background-image:url('https://images.trvl-media.com/media/content/expus/graphics/icons/white-bell.png');speak:none;background-size:contain;background-position:0 0;background-repeat:no-repeat}
+.tv-header .site-navigation #user-alerts-menu.legacy .badge{top:-25px;left:40px;min-width:inherit;font-size:9px;font-weight:normal;right:0;padding:0 .375em;-webkit-box-shadow:none;box-shadow:none;border-width:0}
+.isHotwire #user-alerts-menu .open .trigger-link{color:#00afef !important}
+.isHotwire .theme-standard.menu-arrow::after{border-top:3px solid black;border-left:3px solid black}
+.isHotwire #user-alerts-menu .badge{right:-1em}
+.isHotwire #user-alerts-menu .icon{top:-.2em}
+.isHotwire #user-alerts-menu .menu.sticky{border:3px solid black;margin-top:2em}
+@media only screen and (max-width:725px){#user-alerts-menu:not(.legacy){display:none !important}
+.user-history-tab.scratchpad.isEbookers.open .badge{box-shadow:-2px 2px 0 #0d3880 !important}
+.user-history-tab.scratchpad.isEbookers.open:hover .badge{box-shadow:-2px 2px 0 #0d3880 !important}
+}
+.taap-center-helper{display:inline-block;height:100%;vertical-align:middle}
+.taap-logo-white-icon{display:inline-block;height:90px;margin-left:-0.5em;margin-top:-0.5em;margin-bottom:-0.5em;margin-right:6px;background-color:#000;-webkit-border-radius:0 !important}
+.taap-logo{display:inline-block;vertical-align:middle;margin-left:6px;margin-right:6px}

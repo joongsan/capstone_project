@@ -1,0 +1,35 @@
+.reasons-to-believe-container{display:table;width:100%;padding-left:1em;margin-top:1.41176471em}
+.reasons-to-believe-container .items-4 li{width:25%}
+.reasons-to-believe-container .items-3 li{width:33%}
+.reasons-to-believe-container .items-2 li{width:50%}
+#reasons-to-believe-banner{display:table-row;list-style-type:none}
+#reasons-to-believe-banner span,#reasons-to-believe-banner a{color:#00355f;text-decoration:none !important}
+#reasons-to-believe-banner .symbol{width:3.1em;height:4.1em;display:inline-block;vertical-align:middle;background:url('./rtb-check.svg') no-repeat center center}
+#reasons-to-believe-banner .reason{display:inline-block;width:74%;vertical-align:middle;font-size:.9em;line-height:1.3em}
+#reasons-to-believe-banner.long-text .reason{font-size:.85em}
+#reasons-to-believe-banner li{display:table-cell;padding:0}
+#reasons-to-believe-banner .test{background-size:100px !important;display:inline-block;width:3.1em;height:4.1em;vertical-align:middle}
+#reasons-to-believe-banner .test.rtb_1{background:url('./rtb_1.png') no-repeat center center;position:relative;top:-15px}
+#reasons-to-believe-banner .test.rtb_2{background:url('./rtb_2.png') no-repeat center center;position:relative;top:-15px}
+#reasons-to-believe-banner .test.rtb_3{background:url('./rtb_3.png') no-repeat center center;position:relative;top:-15px}
+#reasons-to-believe-banner .test10988{background-size:25px}
+#reasons-to-believe-banner .re-test10988{width:initial}
+#reasons-to-believe-banner .li-test10988{display:block;width:auto;margin-bottom:-30px}
+@media only screen and (max-width:59.9375em){.reasons-to-believe-container{padding-left:.5em}
+#reasons-to-believe-banner li{width:auto !important;display:block;height:3.5em}
+#reasons-to-believe-banner .li-test10988{margin-bottom:0}
+#reasons-to-believe-banner .reason{width:80%}
+}
+@media only screen and (max-width:37.5em){.reasons-to-believe-container{padding-left:0}
+#reasons-to-believe-banner .reason{font-size:.8em}
+#reasons-to-believe-banner .symbol{background-size:1.8em;width:2.8em}
+}
+@media only screen and (max-width:30.6875em){#reasons-to-believe-banner.long-text .reason{font-size:.7em}
+#reasons-to-believe-banner li{float:left}
+#reasons-to-believe-banner .symbol-wtf{float:left}
+#reasons-to-believe-banner .symbol-pink{float:left}
+}
+.ie8 #reasons-to-believe-banner .symbol{background-image:url('./rtb-check.png')}
+@media only screen and (max-width:59.9375em){#reasons-to-believe-banner li{width:auto !important;display:block;height:3.5em}
+}
+#coupon-or-mod-container #coupon-image{display:none;margin:0 auto}

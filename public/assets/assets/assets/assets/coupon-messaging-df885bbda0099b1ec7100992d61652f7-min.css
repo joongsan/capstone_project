@@ -1,0 +1,7 @@
+.rwd-container{display:none}
+.rwd-container,.rwd-pwp-container{padding:.70588235em;font-size:.9411764705882353em;background-color:#00355f}
+.rwd-container span,.rwd-pwp-container span{color:#fff}
+.rwd-container a:link,.rwd-pwp-container a:link,.rwd-container a:visited,.rwd-pwp-container a:visited{color:#57b3ff}
+.rwd-container a:active,.rwd-pwp-container a:active,.rwd-container a:hover,.rwd-pwp-container a:hover,.rwd-container a:focus,.rwd-pwp-container a:focus{color:#b2ddff}
+.rwd-container .rwd-msg-module,.rwd-pwp-container .rwd-msg-module{text-align:center}
+.rwd-container .rwd-msg-close-btn,.rwd-pwp-container .rwd-msg-close-btn{cursor:pointer;float:right}

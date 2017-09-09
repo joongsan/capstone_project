@@ -1,0 +1,17 @@
+.trip-planning-background{background:#fff}
+.trip-planning-background .site-footer-wrap{margin:0 auto;padding:0 1.41176471em 1.41176471em 1.41176471em;max-width:69.17647058823529em}
+.trip-planning-background .site-footer-wrap .toggle-trigger,.trip-planning-background .site-footer-wrap .toggle-trigger:hover{color:#616161;font-size:.7647058823529411em;font-weight:bold}
+.trip-planning-background .site-footer-wrap .links-description{width:6.70588235em;float:left;color:#616161}
+.trip-planning-background .site-footer-wrap .long-desc{color:#616161;margin:1.15384615em .92307692em 0 8.76923077em;padding-left:1.84615385em;font-size:.7647058823529411em}
+.trip-planning-background .site-footer-wrap .segmented-list{border-bottom:0}
+.trip-planning-background .site-footer-wrap .links-list{float:left;width:100%}
+.trip-planning-background .site-footer-wrap .links-list ul{margin:.70588235em .70588235em 0 6.70588235em}
+.trip-planning-background .site-footer-wrap .links-list ul li{font-size:.7647058823529411em;display:inline-block;margin-right:.70588235em;padding-bottom:0;color:#616161}
+.trip-planning-background .site-footer-wrap .links-list ul li a{color:#616161}
+.trip-planning-background .site-footer-wrap .links-list ul li a:hover{color:#616161}
+.trip-planning-background .site-footer-wrap .links-list ul li span{display:none}
+.lt-ie9 .trip-planning-background{margin-bottom:-1.41176471em}
+.lt-ie9 .trip-planning-background .toggle-trigger:hover{color:#616161}
+.lt-ie9 .trip-planning-background .toggle.open .icon-expand:after,.lt-ie9 .trip-planning-background .toggle-trigger .icon-expand:after{background-position:0 0;background-repeat:no-repeat;position:relative;top:.17647059em;left:.17647059em}
+.lt-ie9 .trip-planning-background .toggle.open .icon-expand:after{background-image:url(/static/default/default/images/new-footer/icon-collapsed-ie8.png)}
+.lt-ie9 .trip-planning-background .toggle.viewed .icon-expand:after{background-image:url(/static/default/default/images/new-footer/icon-expanded-ie8.png)}
